@@ -7,7 +7,7 @@
 
 ## Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,jquery,nodejs,mysql,python,php,laravel,,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,jquery,nodejs,mysql,python,php,laravel,git,github)](https://skillicons.dev)
 
 <br />
 
