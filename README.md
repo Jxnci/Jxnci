@@ -17,7 +17,8 @@
  
  LinkedIn: https://www.linkedin.com/in/janci-urdanivia/s
 
-
+## 📊Stats/Estadística:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxnci&layout=compact&theme=algolia&show_icons=true)](https://github.com/Jxnci/github-readme-stats)
 
 <!--
 **Jxnci/Jxnci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
