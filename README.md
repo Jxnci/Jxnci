@@ -18,19 +18,12 @@
  LinkedIn: https://www.linkedin.com/in/janci-urdanivia/s
 
 ## Estadística 📊
+![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jxnci&theme=gruvbox) 
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jxnci&theme=gruvbox)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jxnci&hide_border=true&card_width=338&theme=gruvbox)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxnci&hide=&layout=compact&theme=gruvbox&hide_border=true")
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxnci&layout=compact&theme=algolia&show_icons=true)](https://github.com/Jxnci/github-readme-stats)
 
-<!--
-**Jxnci/Jxnci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
