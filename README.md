@@ -20,5 +20,4 @@
 ## Estadística 📊
 ![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jxnci&theme=gruvbox) 
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jxnci&theme=gruvbox)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jxnci&hide_border=true&card_width=338&theme=gruvbox)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxnci&hide=&layout=compact&theme=gruvbox&hide_border=true")
